@@ -1,0 +1,35 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 20px;
+    line-height: 1.6;
+    background: #f0f0f0;
+}
+
+h1, h2 {
+    text-align: center;
+    color: #222;
+}
+
+/* Centered image */
+.center-img {
+    display: block;
+    margin: 20px auto;
+    max-width: 300px;
+}
+
+/* All images */
+img {
+    width: 10%;
+    max-width: 450px;
+    margin: 20px 0;
+    border-radius: 10px;
+}
+
+ul {
+    background: green;
+    padding: 20px;
+    border-radius: 10px;
+    max-width: 500px;
+    margin: auto;
+    box-shadow: 0 0 10px rgba(0,0,0,0.1);
+}
